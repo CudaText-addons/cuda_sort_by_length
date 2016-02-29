@@ -1,0 +1,10 @@
+[info]
+title=Sort by Length
+desc=Sorts entire text by length of lines (first short lines come, then longer lines)
+type=cudatext-plugin
+subdir=cuda_sort_by_len
+
+[item1]
+section=commands
+caption=Sort by Length
+method=run
